@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'fStop';
+    src: url('fonts/fStop.eot');
+    src: url('fonts/fStop.eot?#iefix') format('embedded-opentype'),
+         url('fonts/fStop.woff2') format('woff2'),
+         url('fonts/fStop.woff') format('woff'),
+         url('fonts/fStop.ttf')  format('truetype'),
+         url('fonts/fStop.svg#fStop') format('svg');
+}
